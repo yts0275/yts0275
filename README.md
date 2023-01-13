@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 나는 싸피 강사다
+
+- 🌱 나는 웹 공부한다!
+
 ![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yts0275&&show_icons=true&theme=dark)
 
 <!--
